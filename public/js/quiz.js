@@ -11,7 +11,7 @@ function renderQuestion() {
     container.innerHTML = `
             <p class="text-2xl font-bold mb-4">Quiz Completed!</p>
             <p class="text-xl">Your Total Points: <span class="text-green-500">${totalPoints}</span></p>
-            <a href="../../public/index.php" class="text-blue-500 underline">Go to Home</a>
+            <a href="/" class="text-blue-500 underline">Go to Home</a>
         `;
     return;
   }
