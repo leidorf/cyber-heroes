@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Grinched';
+    src: url('../GrinchedRegular.otf') format('opentype');
+}
+
+.grinched {
+    font-family: 'Grinched', sans-serif;
+}
 body {
     background-image: url('../images/background.png');
     background-repeat: no-repeat;
