@@ -27,7 +27,7 @@ foreach ($questions as $row) {
 <?php $pageTitle = "Quiz";
 require_once "header.php"; ?>
 <header class="border-b border-zinc-200 text-center p-4 bg-white/[0.9]">
-    <a href="/" class="grinched text-blue-500 text-3xl">Cyber Heroes</a>
+    <a href="../../public/index.php" class="grinched text-blue-500 text-3xl">Cyber Heroes</a>
 </header>
 
 <body class="flex flex-col h-screen">

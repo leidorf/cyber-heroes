@@ -12,7 +12,7 @@ require_once "header.php"; ?>
                     <p class="text-4xl mb-4 underline decoration-purple-500 text-purple-500 grinched decoration-wavy">
                         Contact
                     </p>
-                    <a href="/" class="block text-center size-10 py-2">←</a>
+                    <a href="../../public/index.php" class="block text-center size-10 py-2">←</a>
                 </div>
                 <p class="mb-2">
                     You can contact the developer (leidorf) via <a href="mailto:leidorf.foss@gmail.com" class="underline decoration-2 hover:decoration-2 decoration-amber-400 hover:decoration-amber-200 cursor-pointer">email</a>, <a href="https://github.com/leidorf" target="_blank" class="underline decoration-2 hover:decoration-2 decoration-violet-500 hover:decoration-violet-300 cursor-pointer">GitHub</a> and <a href="https://discord.com/users/297103270260768769" target="_blank" class="underline decoration-2 hover:decoration-2 decoration-indigo-500 hover:decoration-indigo-300 cursor-pointer">Discord</a>.

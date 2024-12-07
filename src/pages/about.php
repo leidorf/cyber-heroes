@@ -12,7 +12,7 @@ require_once "header.php"; ?>
                     <p class="text-4xl mb-4 underline decoration-green-500 text-green-500 grinched decoration-wavy">
                         About
                     </p>
-                    <a href="/" class="block text-center size-10 py-2">←</a>
+                    <a href="../../public/index.php" class="block text-center size-10 py-2">←</a>
                 </div>
                 <p class="mb-2">
                     Cyber Heroes is a social responsibility is a course project assignment. Its aim is to explain information security to people (especially children) and to instill internet culture.
